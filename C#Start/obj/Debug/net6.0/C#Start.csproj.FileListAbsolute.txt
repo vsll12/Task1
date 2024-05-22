@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\C#Start\C#Start\bin\Debug\net6.0\C#Start.exe
+C:\Users\DELL\source\repos\C#Start\C#Start\bin\Debug\net6.0\C#Start.deps.json
+C:\Users\DELL\source\repos\C#Start\C#Start\bin\Debug\net6.0\C#Start.runtimeconfig.json
+C:\Users\DELL\source\repos\C#Start\C#Start\bin\Debug\net6.0\C#Start.dll
+C:\Users\DELL\source\repos\C#Start\C#Start\bin\Debug\net6.0\C#Start.pdb
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.AssemblyInfo.cs
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.dll
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\refint\C#Start.dll
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.pdb
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\C#Start.genruntimeconfig.cache
+C:\Users\DELL\source\repos\C#Start\C#Start\obj\Debug\net6.0\ref\C#Start.dll
